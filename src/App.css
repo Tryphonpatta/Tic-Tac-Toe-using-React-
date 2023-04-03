@@ -1,0 +1,12 @@
+.square{
+  height: 40px;
+  width: 40px;
+  font-size: 18px;
+  text-align: center;
+  background-color: white;
+  float : left;
+}
+
+.board-row {
+  clear: both;
+}
